@@ -1,1 +1,4 @@
 git commands
+
+git --help
+git init
