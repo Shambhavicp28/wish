@@ -2,3 +2,6 @@ git commands
 
 git --help
 git init
+
+git clone
+git stash
